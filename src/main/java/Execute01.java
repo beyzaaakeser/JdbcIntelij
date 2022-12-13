@@ -45,8 +45,5 @@ public class Execute01 {
         con.close();
         st.close();
 
-
-
-
     }
 }
